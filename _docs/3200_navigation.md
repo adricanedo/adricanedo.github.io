@@ -1,10 +1,11 @@
 ---
+title: Navigation
 sectionclass: h2
 sectionid: navigation
 parent-id: content
 number: 3200
-title: Navigation
 ---
+
 The navigation is dynamic, so you don't have to manually add every page.
 
 In this section I'll just quickly plop in the code, in case you would like to have the fourth level displayed as well.

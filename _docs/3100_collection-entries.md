@@ -1,11 +1,12 @@
 ---
+title: Collection Entries
 sectionclass: h2
 sectionid: collection-entries
 parent-id: content
-is-parent: yes
+is-parent: true
 number: 3100
-title: Collection Entries
 ---
+
 Okay, so the collection is the entries collection. All of your documentation sections will be placed within that folder.
 The index file will then go over every one of these and put them together.
 

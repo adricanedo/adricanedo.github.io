@@ -1,7 +1,7 @@
 ---
+title: Introduction
 sectionid: intro
 sectionclass: h1
-title: Introduction
 number: 1000
 ---
 

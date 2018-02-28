@@ -1,9 +1,9 @@
 ---
+title: Level one
 sectionid: l-1
 sectionclass: h4
 parent-id: section-types
 number: 3111
-title: Level one
 ---
 
 If you want to create one of the main sections, you will need to include the following front matter within your entry:

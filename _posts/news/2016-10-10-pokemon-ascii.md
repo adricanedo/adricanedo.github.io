@@ -1,9 +1,12 @@
 ---
-layout: post
 title: How to use our tool
-tags: "hpc"
-categories: news
-snippet: "Learn how to use our tool, it's really great"
+date: 2016-10-10 00:00:00 Z
+categories:
+- news
+tags:
+- hpc
+layout: post
+snippet: Learn how to use our tool, it's really great
 ---
 
 This is early documentation on how to use our tool. Notice that we've given it a tag, "hpc" that corresponds with a template in `pages/tags/tag_hpc.html` that will automatically generate a page for all posts tagged with "hpc."

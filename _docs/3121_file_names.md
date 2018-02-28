@@ -1,10 +1,11 @@
 ---
+title: File Names
 sectionid: filenames
 sectionclass: h4
 parent-id: order
 number: 3121
-title: File Names
 ---
+
 The first option is just prefixing all of your files with file names.
 
 So your files might look something like this:

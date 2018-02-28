@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Docs
-permalink: /docs
+permalink: "/docs"
+layout: page
 sidebar: true
 hidetitle: true
 ---

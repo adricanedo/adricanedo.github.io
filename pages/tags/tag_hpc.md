@@ -1,8 +1,8 @@
 ---
-title: "HPC"
+title: HPC
+permalink: tag_hpc.html
 tagName: hpc
 search: exclude
-permalink: tag_hpc.html
 ---
 
 {% include taglogic.html %}

@@ -1,8 +1,8 @@
 ---
+title: _config.yml
 sectionid: config
 sectionclass: h2
 parent-id: set-up
-title: _config.yml
 number: 2100
 ---
 

@@ -1,8 +1,8 @@
 ---
+title: Set Up
 sectionid: set-up
 sectionclass: h1
-is-parent: yes
-title: Set Up
+is-parent: true
 number: 2000
 ---
 

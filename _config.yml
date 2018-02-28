@@ -1,73 +1,58 @@
-# Dependencies
-highlighter:      rouge
-
+---
+title: Documentation
+timezone: UTC
+collections:
+  docs:
+    title: Docs
+    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+highlighter: rouge
 markdown: kramdown
 kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
-
-# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Documentation
-tagline:          'Research Portal'
-description:      'Documentation Template for Researchers'
-url:              http://adricanedo.github.io/template-jekyll-docs
-baseurl:          /
-
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
+permalink: pretty
+tagline: Research Portal
+description: Documentation Template for Researchers
+url: http://adricanedo.github.io/template-jekyll-docs
+baseurl: "/"
 author:
-  name:           'Vanessa Sochat'
-  url:            https://twitter.com/StanfordCompute
-  github:         'researchapps'
-  twitter:        'StanfordCompute'  
-
-paginate:         5
-gems: [jekyll-paginate, jekyll-gist]
-collections:
-- docs
-
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-
-
-# Stuff to ignore
+  name: Vanessa Sochat
+  url: https://twitter.com/StanfordCompute
+  github: researchapps
+  twitter: StanfordCompute
+paginate: 5
+gems:
+- jekyll-paginate
+- jekyll-gist
 exclude:
 - playground
 - OLD
 - theme
 - src
-
-# Custom vars
-version:          1.0.0
-
-github:
-repo:           https://github.com/researchapps/template-jekyll-docs
-
-
-# Social networking, etc
-google_analtics: "UA-68034405-2"
-disqus_shortname: "stanfordrc"
+version: 1.0.0
+github: 
+repo: https://github.com/researchapps/template-jekyll-docs
+google_analtics: UA-68034405-2
+disqus_shortname: stanfordrc
 twitter_username: StanfordApps
 github_username: researchapps
 contact_email: researchapps@googlegroups.com
-
-# Site information
-site_name:        Situm
+site_name: Situm
 site_description: Situm Documents
-site_favicon:     assets/img/favicon/favicon.ico # relative to baseurl
-#logo: assets/img/logo_small.png                 # relative to baseurl
-
-
-# Copyright
-copyright:        "Have questions? Feel free to contact <a href='mailto:researchapps@googlegroups.com'>Research Applications</a>"
+site_favicon: assets/img/favicon/favicon.ico
+copyright: Have questions? Feel free to contact <a href='mailto:researchapps@googlegroups.com'>Research
+  Applications</a>

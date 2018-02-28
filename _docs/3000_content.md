@@ -1,8 +1,8 @@
 ---
+title: Content
 sectionclass: h1
 sectionid: content
-is-parent: yes
-title: Content
+is-parent: true
 number: 3000
 ---
 

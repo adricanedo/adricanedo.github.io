@@ -1,10 +1,11 @@
 ---
+title: Level two
 sectionid: l-2
 sectionclass: h4
 parent-id: section-types
 number: 3112
-title: Level two
 ---
+
 A Subsection of a level-2 will look like this
 
 {% highlight yaml %}

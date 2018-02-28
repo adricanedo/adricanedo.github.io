@@ -1,9 +1,9 @@
 ---
+title: Front Matter
 sectionid: frontmatter
 sectionclass: h4
 parent-id: order
 number: 3122
-title: Front Matter
 ---
 
 For the second version (implemented for this demo), you define a font matter variable `number` So to go with the files from before, this is what this method would look like (under the file name, the front matter.) Note that we've also named the files with this number, so it's transparent without needing to open them, and the files are sorted correctly.
