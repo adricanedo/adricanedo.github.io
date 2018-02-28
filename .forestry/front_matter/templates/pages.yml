@@ -1,0 +1,59 @@
+---
+pages:
+- pages/tags/tag_hpc.md
+- pages/support.md
+- pages/search.md
+- pages/news/news_archive.html
+- pages/news/news.html
+- index.html
+- pages/docs.md
+- pages/archive.md
+- pages/about.md
+- 404.html
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: search
+  label: Search
+  type: text
+  hidden: false
+  default: ''
+- name: sidebar
+  label: Sidebar
+  type: boolean
+  hidden: false
+  default: ''
+- name: hidetitle
+  label: Hidetitle
+  type: boolean
+  hidden: false
+  default: ''
+- name: keywords
+  label: Keywords
+  type: text
+  hidden: false
+  default: ''
+- name: toc
+  label: Toc
+  type: boolean
+  hidden: false
+  default: ''
+- name: tagName
+  label: Tagname
+  type: text
+  hidden: false
+  default: ''
