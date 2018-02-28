@@ -18,7 +18,7 @@ title:            Documentation
 tagline:          'Research Portal'
 description:      'Documentation Template for Researchers'
 url:              http://adricanedo.github.io/template-jekyll-docs
-baseurl:          /adricanedo.github.io/
+baseurl:          /
 
 author:
   name:           'Vanessa Sochat'
