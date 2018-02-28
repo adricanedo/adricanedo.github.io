@@ -17,8 +17,8 @@ permalink:        pretty
 title:            Documentation
 tagline:          'Research Portal'
 description:      'Documentation Template for Researchers'
-url:              http://researchapps.github.io/template-jekyll-docs
-baseurl:          /template-jekyll-docs/
+url:              http://adricanedo.github.io/template-jekyll-docs
+baseurl:          /adricanedo.github.io/
 
 author:
   name:           'Vanessa Sochat'
