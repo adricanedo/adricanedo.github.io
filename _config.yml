@@ -63,8 +63,8 @@ github_username: researchapps
 contact_email: researchapps@googlegroups.com
 
 # Site information
-site_name:        RedDocs
-site_description: Documentation Template for Researchers
+site_name:        Situm
+site_description: Situm Documents
 site_favicon:     assets/img/favicon/favicon.ico # relative to baseurl
 #logo: assets/img/logo_small.png                 # relative to baseurl
 
